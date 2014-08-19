@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/ipad/!svn/ver/162/trunk/ios/UMiSDK/UMiSDK
+END
+UMiSDK-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ipad/!svn/ver/162/trunk/ios/UMiSDK/UMiSDK/UMiSDK-Info.plist
+END
+UMiSDK-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ipad/!svn/ver/162/trunk/ios/UMiSDK/UMiSDK/UMiSDK-Prefix.pch
+END
+UMiSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ipad/!svn/ver/162/trunk/ios/UMiSDK/UMiSDK/UMiSDK.h
+END
+UMiSDK.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ipad/!svn/ver/162/trunk/ios/UMiSDK/UMiSDK/UMiSDK.m
+END

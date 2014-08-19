@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/ipad/!svn/ver/273/trunk/ios/MC
+END
+AFCheckVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ipad/!svn/ver/165/trunk/ios/MC/AFCheckVersion.h
+END
+AFUser.m
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/ipad/!svn/ver/268/trunk/ios/MC/AFUser.m
+END
+CountDownInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ipad/!svn/ver/176/trunk/ios/MC/CountDownInfo.h
+END
+AFDownloadAlbum.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ipad/!svn/ver/258/trunk/ios/MC/AFDownloadAlbum.h
+END
+AFCheckVersion.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ipad/!svn/ver/251/trunk/ios/MC/AFCheckVersion.m
+END
+AFSqliteServes.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ipad/!svn/ver/151/trunk/ios/MC/AFSqliteServes.h
+END
+AFWebServesDefineHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ipad/!svn/ver/269/trunk/ios/MC/AFWebServesDefineHeader.h
+END
+AFGlobalData.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ipad/!svn/ver/262/trunk/ios/MC/AFGlobalData.h
+END
+AFCacheData.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ipad/!svn/ver/269/trunk/ios/MC/AFCacheData.h
+END
+sms.caf
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/ipad/!svn/ver/138/trunk/ios/MC/sms.caf
+END
+AFSqliteServes.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ipad/!svn/ver/153/trunk/ios/MC/AFSqliteServes.m
+END
+AFGlobalData.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ipad/!svn/ver/262/trunk/ios/MC/AFGlobalData.m
+END
+AFTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/ipad/!svn/ver/273/trunk/ios/MC/AFTools.h
+END
+AFCacheData.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ipad/!svn/ver/271/trunk/ios/MC/AFCacheData.m
+END
+AFTools.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/ipad/!svn/ver/268/trunk/ios/MC/AFTools.m
+END
+AFWebServes.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ipad/!svn/ver/269/trunk/ios/MC/AFWebServes.h
+END
+AFHttpServes.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ipad/!svn/ver/234/trunk/ios/MC/AFHttpServes.h
+END
+AFDownload.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/ipad/!svn/ver/258/trunk/ios/MC/AFDownload.h
+END
+CountDownInfo.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ipad/!svn/ver/176/trunk/ios/MC/CountDownInfo.mm
+END
+AFDownloadAlbum.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ipad/!svn/ver/194/trunk/ios/MC/AFDownloadAlbum.mm
+END
+AFWebServes.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/ipad/!svn/ver/271/trunk/ios/MC/AFWebServes.m
+END
+AFHttpServes.m
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ipad/!svn/ver/234/trunk/ios/MC/AFHttpServes.m
+END
+AFDownload.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/ipad/!svn/ver/268/trunk/ios/MC/AFDownload.m
+END
+MCDefineHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ipad/!svn/ver/243/trunk/ios/MC/MCDefineHeader.h
+END
+AFUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/ipad/!svn/ver/232/trunk/ios/MC/AFUser.h
+END
