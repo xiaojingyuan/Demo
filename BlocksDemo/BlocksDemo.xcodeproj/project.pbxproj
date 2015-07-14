@@ -15,6 +15,7 @@
 		8AA610891B54A70000F5F327 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AA610881B54A70000F5F327 /* Images.xcassets */; };
 		8AA6108C1B54A70000F5F327 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8AA6108A1B54A70000F5F327 /* LaunchScreen.xib */; };
 		8AA610981B54A70000F5F327 /* BlocksDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AA610971B54A70000F5F327 /* BlocksDemoTests.m */; };
+		8AA610A31B54C05F00F5F327 /* BlockObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AA610A21B54C05F00F5F327 /* BlockObject.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		8AA610911B54A70000F5F327 /* BlocksDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlocksDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AA610961B54A70000F5F327 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8AA610971B54A70000F5F327 /* BlocksDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlocksDemoTests.m; sourceTree = "<group>"; };
+		8AA610A11B54C05F00F5F327 /* BlockObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BlockObject.h; sourceTree = "<group>"; };
+		8AA610A21B54C05F00F5F327 /* BlockObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BlockObject.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				8AA610801B54A70000F5F327 /* FirstViewController.m */,
 				8AA610821B54A70000F5F327 /* SecondViewController.h */,
 				8AA610831B54A70000F5F327 /* SecondViewController.m */,
+				8AA610A11B54C05F00F5F327 /* BlockObject.h */,
+				8AA610A21B54C05F00F5F327 /* BlockObject.m */,
 				8AA610851B54A70000F5F327 /* Main.storyboard */,
 				8AA610881B54A70000F5F327 /* Images.xcassets */,
 				8AA6108A1B54A70000F5F327 /* LaunchScreen.xib */,
@@ -225,6 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8AA610841B54A70000F5F327 /* SecondViewController.m in Sources */,
+				8AA610A31B54C05F00F5F327 /* BlockObject.m in Sources */,
 				8AA6107E1B54A70000F5F327 /* AppDelegate.m in Sources */,
 				8AA610811B54A70000F5F327 /* FirstViewController.m in Sources */,
 				8AA6107B1B54A70000F5F327 /* main.m in Sources */,
